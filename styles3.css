@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+}
+
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(68, 68, 156);
+}
+
+ul {
+    display: flex;
+}
+
+button {
+    color: #fff;
+    font-family: 'Roboto', arial;
+    border-color: #fff;
+    border-radius: 8px;
+    background-color: #3882F6;
+    padding: 5px 25px;
+    font-size: 15px;
+}
+
+.chi {
+    width: 18rem;
+    height: auto;
+}
+.hero {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(68, 68, 156);
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.contentdiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contentinfo {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.contentimg {
+    width: 18rem;
+    height: auto;
+    margin: 20px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: bisque;
+    margin: 50px 200px;
+    padding: 20px 80px;
+}
+
+.signup {
+    background-color: #3882F6;
+    margin: 50px 200px;
+    padding: 10px 80px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    justify-content: space-around;
+}
+
+.signitem {
+    display: flex;
+    flex-direction: column;
+    background-color: #3882F6;
+    margin: 30px 10px;
+    
+}
+.signs {
+    margin: 0;
+    padding: 5px;
+    color: white;
+}
+.footer {
+    text-align: center;
+    background-color: rgb(68, 68, 156);
+    margin: 0;
+    padding: 20px;
+}
+
+
