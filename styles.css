@@ -1,0 +1,86 @@
+body {
+    max-height: 100vh;
+    max-width: 1000px;
+    margin: 20px auto;
+    border: 3px solid rgb(158, 150, 150);
+}
+
+header {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
+}
+
+main {
+    background-color: antiquewhite;
+}
+
+footer {
+    background-color: #1F2937;
+}
+
+.header-logo {
+    width: 5rem;
+    align-self: flex-start;
+    
+}
+
+.secondary, a {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.headerdiv {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.links {
+    display: flex;
+}
+
+.anger {
+    max-width: 200px;
+    align-self: flex-start;
+    margin-bottom: 20px;
+}
+
+.headerbottom {
+    display: flex;
+    justify-content: space-around;
+    gap: 3rem;
+    
+  
+}
+.bees {
+    max-width: 17rem;
+}
+
+.flexydiv {
+    display: flex;
+}
+
+.buttonbottom {
+    background-color: #3882f6;
+    display: flex;
+}
+
+.button2 {
+    background-color: #3882f6;
+    color: #f9faf8;  
+    border: 2px solid #f9faf8;
+}
